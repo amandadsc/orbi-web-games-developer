@@ -1,4 +1,4 @@
 # Dino Game
-O projeto consiste em um jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Utilizando HTML, CSS e Javascript abordando manipulação de eventos, funções e manipulação de elementos HTML usando Javascript, estilização e animações básicas com CSS. Foi acrescentado o som de pulo.
+O projeto consiste em um jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Utilizando HTML, CSS e Javascript abordando manipulação de eventos, funções e manipulação de elementos HTML usando Javascript, estilização e animações básicas com CSS. Foi acrescentado o som de pulo e um botão de reiniciar o jogo.
 
 [![Sample](https://res.cloudinary.com/marcomontalbano/image/upload/v1649971821/video_to_markdown/images/google-drive--1VnPMc4xnxJ-YZPpqNXRXDNTFYHP6oMo1-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1VnPMc4xnxJ-YZPpqNXRXDNTFYHP6oMo1/view?usp=sharing "Sample")
